@@ -1,0 +1,14 @@
+User-agent: * 
+Allow: /
+Allow: /categories/
+Allow: /tags/
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /lib/
+
+Sitemap: https://tf-jh.github.io/sitemap.xml
+Sitemap: https://tf-jh.github.io/baidusitemap.xml
